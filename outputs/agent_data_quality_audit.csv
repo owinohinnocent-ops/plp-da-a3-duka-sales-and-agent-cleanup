@@ -1,0 +1,7 @@
+issue,dimension,column,rows_affected
+Duplicate transaction IDs,Uniqueness,txn_id,12
+Missing/non-numeric amounts after N/A coercion,Completeness/Validity,amount,20
+Inconsistent transaction-type formatting,Consistency,txn_type,376
+Slash-formatted transaction dates normalised,Consistency,txn_date,5
+Unknown agent IDs (after transaction deduplication),Completeness,agent_id,7
+"KES 250,000 high-value entries requiring verification",Accuracy,amount,5

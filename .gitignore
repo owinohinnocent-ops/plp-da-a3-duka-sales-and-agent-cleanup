@@ -1,0 +1,7 @@
+# Generated raw source data (regenerate with generate_data.py)
+duka_sales.csv
+agents.csv
+agent_transactions.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
